@@ -45,13 +45,13 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "react-native-device-info": "https://github.com/zeptonow/react-native-device-info",
-    "react-native-siren": "https://github.com/himanshuzeptonow/react-native-siren",
+    "react-native-device-info": "https://github.com/zeptonow/react-native-device-info#1.0.0",
+    "react-native-siren": "https://github.com/himanshuzeptonow/react-native-siren#1.0.0",
     "semver": "7.2.1",
     "underscore": "1.12.1"
   },
   "resolutions": {
-    "react-native-device-info": "https://github.com/zeptonow/react-native-device-info"
+    "react-native-device-info": "https://github.com/zeptonow/react-native-device-info#1.0.0"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
